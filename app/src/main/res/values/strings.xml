@@ -1,0 +1,8 @@
+<resources>
+<string name="app_name">ColumnPicker</string>
+<string name="set_min">Set Min</string>
+<string name="set_max">Set Max</string>
+<string name="hints">Integer</string>
+<string name="toast">Please select button</string>
+    </resources>
+
